@@ -1,0 +1,5 @@
+Maior EMenor (Tests\Model\MaiorEMenor)
+ [x] Metodo encontra em ordem crescente
+ [x] Metodo encontra em ordem decrescente
+ [x] Metodo encontra em ordem aleatoria
+
